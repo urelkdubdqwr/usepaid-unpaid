@@ -1,4 +1,8 @@
+<img src="assets/header.svg" alt="USEPAID UNPAID — 8 bounties, receipts included" width="100%">
+
 # USEPAID — UNPAID
+
+[![CI](https://github.com/urelkdubdqwr/usepaid-unpaid/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/usepaid-unpaid/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-submitted%2C_pending_review-yellow" alt="status">
