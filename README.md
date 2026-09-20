@@ -1,4 +1,4 @@
-# STUDIO PINGGIR KASUR 🛏️
+# USEPAID — UNPAID
 
 ## USEPAID — UNPAID — 8 bounty, 1 hari, 0 cair.
 
