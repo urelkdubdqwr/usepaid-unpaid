@@ -1,6 +1,6 @@
-# USEPAID — UNPAID
+# STUDIO PINGGIR KASUR 🛏️
 
-**STUDIO PINGGIR KASUR — ONAR-77**
+## USEPAID — UNPAID — 8 bounty, 1 hari, 0 cair.
 
 > 8 bounty. 1 hari. 590 dollar stocks di kertas. 0 cair di dompet.
 > Makanya jujur: unpaid.
