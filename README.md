@@ -1,15 +1,6 @@
-<img src="assets/header.svg" alt="USEPAID UNPAID — 8 bounties, receipts included" width="100%">
-
-# USEPAID — UNPAID
+# USEPAID — UNPAID — STUDIO PINGGIR KASUR 🛏️
 
 [![CI](https://github.com/urelkdubdqwr/usepaid-unpaid/actions/workflows/ci.yml/badge.svg)](https://github.com/urelkdubdqwr/usepaid-unpaid/actions/workflows/ci.yml) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-
-<p align="center">
-  <img src="https://img.shields.io/badge/status-submitted%2C_pending_review-yellow" alt="status">
-  <img src="https://img.shields.io/badge/bounties-8-orange" alt="8 bounties">
-  <img src="https://img.shields.io/badge/claimed-%24590%20in%20stocks-red" alt="claimed">
-  <img src="https://img.shields.io/badge/paid-%240-brightgreen" alt="paid">
-</p>
 
 > 8 bounty dikerjain dalam satu hari. dibayarnya? *nanti.* makanya nama repo ini jujur: **unpaid**. 🫡
 
