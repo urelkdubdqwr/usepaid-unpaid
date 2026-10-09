@@ -28,18 +28,7 @@ usepaid.fun bounty tasks, plus the reproducible code that generated one of them.
 
 ## How it works
 
-```mermaid
-flowchart TD
-    B["bounty brief<br/>usepaid.fun · manual review"] --> S["slides in HTML/CSS<br/>written by hand"]
-    B --> P["beat.py<br/>stdlib synth · 100 BPM · Am-F-C-G"]
-    S --> C["headless Chromium<br/>render frames"]
-    C --> F["ffmpeg stitch<br/>mp4 · no stock footage"]
-    P --> W["beat_final.wav<br/>deterministic, byte-reproducible"]
-    F --> D["deliverable file<br/>committed to this repo"]
-    D --> R["submitted 14 Sep 2026"]
-    R --> Q["review queue<br/>stock-token payout"]
-    Q -.->|on-chain receipt| OUT["pasted back into this README"]
-```
+![usepaid-unpaid architecture](assets/ecosystem.png)
 
 The claim that matters: run `python3 beat.py` and you get the same audio back —
 "original" anyone can check. Videos follow the slide → Chromium → ffmpeg pipeline;
