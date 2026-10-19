@@ -54,7 +54,7 @@ Listed rewards sum to **$665**. Running unpaid total: the same amount.
 
 ## Trace
 
-- Platform-verified promo post on the timeline: https://onar-links.vercel.app
+- Platform-verified promo post on the timeline: https://studiopinggirkasur.xyz
 - 1 campaign view-rewards (up to $750) reserved, claim 15 Sep — an update lands here once it's clear.
 - Submissions went in 14 Sep 2026; nothing paid out yet as of this README.
 
