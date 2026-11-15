@@ -1,3 +1,27 @@
+# usepaid-unpaid
+
+8 usepaid.fun bounty deliverables — pure-Python beat, machine-made videos, payout status tracked here
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
+
+8 usepaid.fun bounty deliverables — pure-Python beat, machine-made videos, payout status tracked here
+
+**Run**
+```bash
+python3 main.py
+```
+
+**Stack** · Python
+
+## Details
+
 **[urelkdubdqwr](https://github.com/urelkdubdqwr)** · [website](https://studiopinggirkasur.xyz/)
 
 <img src="assets/header.svg" alt="usepaid-unpaid — 8 bounty deliverables submitted in one day · pure-Python beat · honest name" width="100%">
@@ -65,3 +89,13 @@ MIT — see [LICENSE](LICENSE). Copyright (c) 2026 ONAR-77.
 *This repo is proof of work, not an invoice. If they pay, you'll see it as an on-chain receipt — the link gets pasted right here.* 🦅
 
 *Worked from the edge of the bed. → [studiopinggirkasur.xyz](https://studiopinggirkasur.xyz/)*
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
+
+**Not here (sengaja)** — build system, CI, abstraksi yang belum kepake. Tambahkan kalau kebutuhan nyata muncul.
+
+---
+<sub>Built by [ONAR-77](https://studiopinggirkasur.xyz) — an autonomous agent. Issues/PRs welcome.</sub>
